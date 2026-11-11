@@ -1,0 +1,115 @@
+FINANCIAL RISK MANAGEMENT — CONCEPTS FOR DOMAIN QUESTION ANSWERING
+Document type: Educational domain reference Scope: Banking and
+financial-system risk concepts Prepared: 11 November 2026
+
+PURPOSE AND SCOPE This document describes common financial risks and
+principles for evaluating AI answers in a banking context. It is
+intended as educational domain material and a starting point for model
+testing. It does not provide investment recommendations, credit
+decisions or institution-specific regulatory limits.
+
+1.  CREDIT RISK Credit risk is the possibility that a borrower or
+    counterparty will fail to meet contractual obligations. Common
+    assessment factors include repayment history, income and cash-flow
+    capacity, leverage, collateral, industry conditions and
+    concentration. Credit risk can arise from loans, bonds, derivatives,
+    settlement exposures and other counterparty relationships. A credit
+    decision should not be based on one indicator alone. A credit score
+    may be useful, but it does not replace affordability analysis,
+    verification and applicable underwriting policy.
+
+2.  LIQUIDITY RISK Liquidity risk is the risk that an institution cannot
+    meet cash-flow obligations when due without unacceptable losses. A
+    bank may be solvent but still face liquidity pressure if it cannot
+    obtain cash quickly enough to meet withdrawals or payments. Banks
+    manage liquidity through cash and liquid-asset buffers, funding
+    diversification, maturity monitoring, contingency funding plans and
+    stress testing. Liquidity risk should be assessed across different
+    time horizons and under both normal and stressed conditions.
+
+3.  MARKET RISK Market risk is the possibility of loss from movements in
+    market prices or rates, including interest rates, foreign exchange
+    rates, equity prices and commodity prices. Exposure depends on
+    positions, sensitivities, hedges and market conditions. A change in
+    market rates can affect the value of assets and liabilities
+    differently. A risk report should state the relevant portfolio,
+    valuation date, assumptions and measurement method.
+
+4.  OPERATIONAL RISK Operational risk arises from inadequate or failed
+    processes, people, systems or external events. Examples include
+    processing errors, cyber incidents, fraud, third-party failures,
+    internal misconduct and business disruption. Controls include
+    segregation of duties, access management, reconciliation, staff
+    training, incident response, audit trails and business continuity
+    planning. Controls reduce exposure but cannot guarantee that
+    incidents will never occur.
+
+5.  CONCENTRATION RISK Concentration risk occurs when exposures are
+    heavily concentrated in a borrower, connected group, sector,
+    geography, funding source or asset class. A concentrated portfolio
+    can be vulnerable to a common adverse event. Diversification and
+    exposure limits can reduce, but do not eliminate, this risk.
+    Concentration should be examined by relevant dimensions and with
+    clear definitions of exposure.
+
+6.  CAPITAL ADEQUACY Capital provides a loss-absorbing buffer. Capital
+    adequacy frameworks compare eligible capital with risk-weighted
+    exposures or other prescribed measures. Capital definitions,
+    deductions, buffers and minimum ratios are regulatory matters and
+    must be checked against the current rule applicable to the
+    institution. A model should not quote an exact regulatory capital
+    minimum without identifying the entity type, applicable framework
+    and effective date.
+
+7.  STRESS TESTING Stress testing evaluates how a portfolio or
+    institution might perform under severe but plausible adverse
+    scenarios. Scenarios may include recession, rising defaults, falling
+    asset prices, interest-rate shocks, deposit outflows or
+    foreign-exchange movements. Results depend on assumptions, data
+    quality, model design and management actions. Stress-test results
+    are not forecasts and should not be presented as predictions of what
+    will certainly happen. Sensitivity analysis can help show which
+    assumptions have the largest effect.
+
+8.  RISK GOVERNANCE Effective risk governance includes clear
+    accountability, independent oversight, documented policies, reliable
+    data, escalation processes and regular review. Risk limits should
+    have owners and procedures for handling breaches. Senior management
+    and boards need information that is timely, accurate and
+    understandable. A model-generated risk summary should preserve
+    uncertainty and should not replace accountable human review.
+
+9.  MODEL RISK AND AI RELIABILITY Model risk is the possibility that
+    decisions or outcomes are adversely affected by errors in model
+    design, assumptions, data, implementation or use. A financial-domain
+    AI system can introduce additional risks if it invents facts,
+    misquotes a regulation, confuses products or presents uncertain
+    output as certain. Reliability work should test representative
+    questions, edge cases, ambiguous wording, outdated information and
+    questions that cannot be answered from the supplied documents.
+
+10. PRINCIPLES FOR RELIABLE FINANCIAL AI
+
+-   Separate sourced facts from calculations, assumptions and opinions.
+-   Cite the document, section and date supporting material claims.
+-   Do not invent regulatory thresholds, rates, financial results or
+    citations.
+-   State when information is missing, outdated or conflicting.
+-   Ask for the institution type, product, jurisdiction and as-of date
+    when these affect the answer.
+-   For numerical calculations, show inputs, formula, units and
+    rounding.
+-   Avoid presenting general information as personalised investment,
+    lending or legal advice.
+-   Escalate high-impact or customer-specific decisions to qualified
+    human review.
+
+
+
+FURTHER READING RBI Financial Stability Reports:
+https://www.rbi.org.in/scripts/FSReports.aspx RBI Master Directions:
+https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx SEBI Investor
+Education: https://investor.sebi.gov.in/
+
+This material is educational and is not investment, lending, legal or
+regulatory advice.

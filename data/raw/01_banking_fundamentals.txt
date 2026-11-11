@@ -1,0 +1,102 @@
+BANKING FUNDAMENTALS — INDIA Document type: Educational domain reference
+Jurisdiction: India Prepared: 11 November 2026
+
+PURPOSE AND SCOPE This document introduces common banking products,
+terminology and processes. It is intended as domain material for testing
+a financial question-answering system. It is not a bank’s product
+disclosure, a current interest-rate schedule, or personalised financial
+advice. Product conditions vary by institution, customer, date and
+applicable regulation.
+
+1.  WHAT A BANK DOES A bank accepts deposits, provides loans and payment
+    services, and performs financial intermediation. It connects
+    depositors who have funds with borrowers who need funds. Banks also
+    support remittances, cards, account services, trade finance, cash
+    management and digital payments. Banks must manage risks while
+    meeting applicable legal and regulatory obligations.
+
+2.  COMMON DEPOSIT PRODUCTS A savings deposit account is generally used
+    by individuals for transactions and savings. Interest,
+    minimum-balance conditions, charges and transaction limits depend on
+    the bank’s terms and applicable rules. A current account is commonly
+    used by businesses and entities with frequent transactions. Interest
+    treatment, cash services, charges and limits depend on the bank’s
+    terms. A fixed deposit, also called a term deposit, places money for
+    a defined period under agreed conditions. The maturity amount
+    depends on principal, rate, compounding convention and tenure.
+    Premature withdrawal may be subject to conditions or penalties. A
+    recurring deposit involves regular contributions over a chosen
+    period. The maturity amount depends on the instalment schedule,
+    tenure and applicable rate. A deposit customer should review the
+    official product terms, premature-closure rules, tax treatment and
+    deposit-insurance information before making a decision.
+
+3.  LENDING TERMINOLOGY Principal is the original amount borrowed,
+    excluding interest and charges. Interest is the cost of borrowing or
+    return paid on a deposit, expressed as an amount or rate. Tenor or
+    tenure is the length of time for which a loan or deposit runs. An
+    EMI, or equated monthly instalment, is a periodic payment that
+    typically includes principal and interest for an amortising loan.
+    Collateral is an asset pledged or charged to support a loan. The
+    lender’s rights over collateral depend on the contract and
+    applicable law. Loan-to-value, or LTV, is the loan amount divided by
+    the value of the financed asset, expressed as a percentage. A credit
+    score is an indicator derived from credit-history information.
+    Lenders may use it with income, repayment capacity, existing
+    obligations, collateral and other underwriting factors.
+
+4.  HOW LOAN REPAYMENT WORKS For a typical amortising loan, each
+    scheduled payment covers interest due for the period and reduces
+    outstanding principal. At the beginning of a standard repayment
+    schedule, the interest portion may represent a larger share of the
+    instalment; as principal declines, the interest portion generally
+    declines too, assuming the rate and schedule remain unchanged. A
+    floating-rate reset, missed payment, prepayment or restructuring can
+    change the schedule. A borrower should consult the lender’s
+    repayment statement for the actual outstanding balance and
+    instalment details.
+
+5.  ASSET QUALITY AND NON-PERFORMING ASSETS Asset quality describes the
+    health of a lender’s loan portfolio. A non-performing asset, or NPA,
+    is a loan or advance classified as non-performing under the
+    applicable prudential rules. NPA classification, income recognition
+    and provisioning must follow the current directions applicable to
+    the regulated entity and facility. Do not assume one classification
+    rule applies to every product or institution. An NPA ratio is a
+    portfolio-level indicator and should be interpreted with its
+    definition, reporting date and context.
+
+6.  INTEREST RATES A lending rate may be fixed or floating. A fixed rate
+    is intended to remain unchanged for the agreed period, subject to
+    contract terms. A floating rate can change according to its
+    benchmark, spread and reset terms. A rate change can affect the
+    instalment amount, loan tenure, or both, depending on the contract
+    and lender policy. A model must not invent a current policy rate,
+    deposit rate or lending rate.
+
+7.  BANKING PAYMENTS AND CUSTOMER PROTECTION Payment systems allow money
+    to move between people, businesses and institutions. In India,
+    digital payment methods include systems such as UPI, NEFT, RTGS and
+    IMPS, each with its own operating rules and participant
+    arrangements. Customers should verify beneficiary details, protect
+    credentials, use official bank channels and report suspected
+    unauthorised transactions promptly. A bank will have defined
+    complaint and escalation channels; customers should consult the
+    current official process.
+
+8.  HOW TO ANSWER BANKING QUESTIONS RELIABLY First identify the product,
+    institution, customer type, jurisdiction and date relevant to the
+    question. Distinguish a general definition from a product-specific
+    condition. If a question asks for an exact rate, fee, eligibility
+    rule, overdue threshold or regulatory requirement, consult the
+    latest official bank disclosure or applicable RBI direction. State
+    the source and effective date. If the evidence is unavailable, say
+    that the answer cannot be verified rather than guessing.
+
+OFFICIAL REFERENCE POINTS Reserve Bank of India: https://www.rbi.org.in/
+RBI Master Directions:
+https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx RBI banking
+glossary: https://shabdavali.rbi.org.in/
+
+This educational summary does not replace official regulatory text,
+contractual terms or professional financial advice.

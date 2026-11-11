@@ -1,0 +1,106 @@
+RBI REGULATORY KNOWLEDGE — BANKING ASSET QUALITY Document type:
+Educational summary with official-source references Jurisdiction: India
+Prepared: 11 November 2026
+
+PURPOSE AND SCOPE This document introduces the role of the Reserve Bank
+of India and several prudential banking concepts. It is intended for
+domain-specific AI testing. It is not a complete statement of law or
+regulation. Regulatory requirements can change and may differ across
+banks, cooperative banks, non-banking financial companies and other
+regulated entities.
+
+1.  ROLE OF THE RESERVE BANK OF INDIA The Reserve Bank of India, or RBI,
+    is India’s central bank. It performs monetary, regulatory and
+    supervisory functions in the financial system. Its responsibilities
+    include monetary policy, currency management, regulation and
+    supervision of specified financial institutions, payment-system
+    oversight and financial-stability work. Banking entities must follow
+    the laws, regulations, directions and circulars applicable to their
+    entity type and activities.
+
+2.  PRUDENTIAL REGULATION Prudential rules are intended to promote the
+    safety and soundness of regulated financial institutions. They
+    address areas such as governance, capital, liquidity, credit
+    exposure, asset classification, income recognition, provisioning,
+    disclosures and risk management. The exact requirements depend on
+    the regulated entity and the current applicable instrument. A
+    requirement for one class of institution should not automatically be
+    applied to another.
+
+3.  INCOME RECOGNITION Income recognition rules govern when an
+    institution may recognise income, including interest on advances.
+    Recognition may depend on the status and classification of an
+    account and the applicable prudential framework. Accounting
+    recognition and cash actually received are not always the same
+    thing. A reliable answer should identify the relevant rule and
+    account category rather than assuming that every accrued amount is
+    automatically recognised as income.
+
+4.  ASSET CLASSIFICATION Asset classification categorises advances
+    according to the applicable prudential criteria and the repayment or
+    credit status of the account. Categories and conditions are defined
+    by the relevant regulatory directions. Classification can depend on
+    the nature of the facility, account conduct, restructuring status
+    and other specified facts. The current entity-specific rule must be
+    checked before stating an exact overdue period or classification
+    threshold.
+
+5.  NON-PERFORMING ASSETS A non-performing asset, or NPA, is an advance
+    classified as non-performing under the applicable RBI prudential
+    framework. Classification depends on the relevant directions, the
+    nature of the facility and the facts of the account. A model must
+    not give a universal overdue-day threshold without checking the
+    applicable current rule and any relevant exceptions. If a user asks
+    whether a particular loan is an NPA, the answer may require
+    account-level facts that are not available in a general document.
+
+6.  PROVISIONING Provisioning recognises that some loan exposures may
+    not be fully recovered. It affects reported profitability and the
+    carrying value of assets. Provisioning requirements can vary by
+    asset category, security, borrower, restructuring status and the
+    applicable regulatory framework. A provision is not necessarily the
+    same as a final write-off. A write-off is an accounting action and
+    does not by itself mean that the borrower’s obligation has been
+    legally extinguished.
+
+7.  WHY ASSET-QUALITY METRICS NEED CONTEXT Gross NPA and net NPA
+    measures are commonly used to describe aspects of a bank’s stressed
+    advances. Their definitions and calculation details should be taken
+    from the relevant reporting framework. A ratio should always be
+    accompanied by its reporting date, denominator and source.
+    Comparisons between institutions may be misleading if definitions,
+    portfolios, reporting periods or accounting treatment differ. A
+    single ratio does not explain the full credit-risk position.
+
+8.  REGULATORY VERSION CONTROL Regulatory information changes. Before
+    relying on a threshold, effective date, exemption or reporting
+    requirement:
+
+-   Identify the regulated entity type, such as a commercial bank, small
+    finance bank, cooperative bank or NBFC.
+-   Find the latest RBI direction or circular for that entity and topic.
+-   Check the effective date, amendments and transitional provisions.
+-   Identify the exact chapter, paragraph or section supporting the
+    claim.
+-   Distinguish binding regulatory text from explanatory articles or
+    commentary.
+-   If the source is unavailable or ambiguous, state the limitation
+    rather than guessing.
+
+9.  EXAMPLE OF A SAFE ANSWER Question: What overdue period makes a loan
+    an NPA? A safe answer is: The applicable classification criteria
+    depend on the type of regulated entity and facility and the current
+    RBI directions. I would need to identify the institution and
+    facility type and verify the latest applicable direction before
+    giving an exact threshold. This avoids presenting a rule for one
+    category as if it applied to all lenders.
+
+10. OFFICIAL SOURCE REFERENCES RBI Master Directions portal:
+    https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx RBI
+    Financial Stability Report portal:
+    https://www.rbi.org.in/scripts/FSReports.aspx RBI official website:
+    https://www.rbi.org.in/
+
+Always select the correct entity-specific direction and check
+amendments. This educational summary is not legal, regulatory or
+financial advice and does not reproduce the full official text.

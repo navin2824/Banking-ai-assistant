@@ -1,0 +1,188 @@
+[
+    {
+        "source": "01_banking_fundamentals.txt",
+        "chunk_id": 0,
+        "section": "General Information",
+        "text": "BANKING FUNDAMENTALS — INDIA Document type: Educational domain reference\nJurisdiction: India Prepared: 11 November 2026\nPURPOSE AND SCOPE This document introduces common banking products,\nterminology and processes. It is intended as domain material for testing\na financial question-answering system. It is not a bank’s product\ndisclosure, a current interest-rate schedule, or personalised financial\nadvice. Product conditions vary by institution, customer, date and\napplicable regulation."
+    },
+    {
+        "source": "01_banking_fundamentals.txt",
+        "chunk_id": 1,
+        "section": "1. WHAT A BANK DOES",
+        "text": "A bank accepts deposits, provides loans and payment\nservices, and performs financial intermediation. It connects\ndepositors who have funds with borrowers who need funds. Banks also\nsupport remittances, cards, account services, trade finance, cash\nmanagement and digital payments. Banks must manage risks while\nmeeting applicable legal and regulatory obligations."
+    },
+    {
+        "source": "01_banking_fundamentals.txt",
+        "chunk_id": 2,
+        "section": "2. COMMON DEPOSIT PRODUCTS",
+        "text": "A savings deposit account is generally used\nby individuals for transactions and savings. Interest,\nminimum-balance conditions, charges and transaction limits depend on\nthe bank’s terms and applicable rules. A current account is commonly\nused by businesses and entities with frequent transactions. Interest\ntreatment, cash services, charges and limits depend on the bank’s\nterms. A fixed deposit, also called a term deposit, places money for\na defined period under agreed conditions. The maturity amount\ndepends on principal, rate, compounding convention and tenure.\nPremature withdrawal may be subject to conditions or penalties. A\nrecurring deposit involves regular contributions over a chosen\nperiod. The maturity amount depends on the instalment schedule,\ntenure and applicable rate. A deposit customer should review the\nofficial product terms, premature-closure rules, tax treatment and\ndeposit-insurance information before making a decision."
+    },
+    {
+        "source": "01_banking_fundamentals.txt",
+        "chunk_id": 3,
+        "section": "3. LENDING TERMINOLOGY",
+        "text": "Principal is the original amount borrowed,\nexcluding interest and charges. Interest is the cost of borrowing or\nreturn paid on a deposit, expressed as an amount or rate. Tenor or\ntenure is the length of time for which a loan or deposit runs. An\nEMI, or equated monthly instalment, is a periodic payment that\ntypically includes principal and interest for an amortising loan.\nCollateral is an asset pledged or charged to support a loan. The\nlender’s rights over collateral depend on the contract and\napplicable law. Loan-to-value, or LTV, is the loan amount divided by\nthe value of the financed asset, expressed as a percentage. A credit\nscore is an indicator derived from credit-history information.\nLenders may use it with income, repayment capacity, existing\nobligations, collateral and other underwriting factors."
+    },
+    {
+        "source": "01_banking_fundamentals.txt",
+        "chunk_id": 4,
+        "section": "4. HOW LOAN REPAYMENT WORKS",
+        "text": "For a typical amortising loan, each\nscheduled payment covers interest due for the period and reduces\noutstanding principal. At the beginning of a standard repayment\nschedule, the interest portion may represent a larger share of the\ninstalment; as principal declines, the interest portion generally\ndeclines too, assuming the rate and schedule remain unchanged. A\nfloating-rate reset, missed payment, prepayment or restructuring can\nchange the schedule. A borrower should consult the lender’s\nrepayment statement for the actual outstanding balance and\ninstalment details."
+    },
+    {
+        "source": "01_banking_fundamentals.txt",
+        "chunk_id": 5,
+        "section": "5. ASSET QUALITY AND NON-PERFORMING ASSETS",
+        "text": "Asset quality describes the\nhealth of a lender’s loan portfolio. A non-performing asset, or NPA,\nis a loan or advance classified as non-performing under the\napplicable prudential rules. NPA classification, income recognition\nand provisioning must follow the current directions applicable to\nthe regulated entity and facility. Do not assume one classification\nrule applies to every product or institution. An NPA ratio is a\nportfolio-level indicator and should be interpreted with its\ndefinition, reporting date and context."
+    },
+    {
+        "source": "01_banking_fundamentals.txt",
+        "chunk_id": 6,
+        "section": "6. INTEREST RATES",
+        "text": "A lending rate may be fixed or floating. A fixed rate\nis intended to remain unchanged for the agreed period, subject to\ncontract terms. A floating rate can change according to its\nbenchmark, spread and reset terms. A rate change can affect the\ninstalment amount, loan tenure, or both, depending on the contract\nand lender policy. A model must not invent a current policy rate,\ndeposit rate or lending rate."
+    },
+    {
+        "source": "01_banking_fundamentals.txt",
+        "chunk_id": 7,
+        "section": "7. BANKING PAYMENTS AND CUSTOMER PROTECTION",
+        "text": "Payment systems allow money\nto move between people, businesses and institutions. In India,\ndigital payment methods include systems such as UPI, NEFT, RTGS and\nIMPS, each with its own operating rules and participant\narrangements. Customers should verify beneficiary details, protect\ncredentials, use official bank channels and report suspected\nunauthorised transactions promptly. A bank will have defined\ncomplaint and escalation channels; customers should consult the\ncurrent official process."
+    },
+    {
+        "source": "01_banking_fundamentals.txt",
+        "chunk_id": 8,
+        "section": "8. HOW TO ANSWER BANKING QUESTIONS RELIABLY",
+        "text": "First identify the product,\ninstitution, customer type, jurisdiction and date relevant to the\nquestion. Distinguish a general definition from a product-specific\ncondition. If a question asks for an exact rate, fee, eligibility\nrule, overdue threshold or regulatory requirement, consult the\nlatest official bank disclosure or applicable RBI direction. State\nthe source and effective date. If the evidence is unavailable, say\nthat the answer cannot be verified rather than guessing.\nOFFICIAL REFERENCE POINTS Reserve Bank of India: https://www.rbi.org.in/\nRBI Master Directions:\nhttps://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx RBI banking\nglossary: https://shabdavali.rbi.org.in/\nThis educational summary does not replace official regulatory text,\ncontractual terms or professional financial advice."
+    },
+    {
+        "source": "02_rbi_regulatory_and_asset_quality.txt",
+        "chunk_id": 0,
+        "section": "General Information",
+        "text": "RBI REGULATORY KNOWLEDGE — BANKING ASSET QUALITY Document type:\nEducational summary with official-source references Jurisdiction: India\nPrepared: 11 November 2026\nPURPOSE AND SCOPE This document introduces the role of the Reserve Bank\nof India and several prudential banking concepts. It is intended for\ndomain-specific AI testing. It is not a complete statement of law or\nregulation. Regulatory requirements can change and may differ across\nbanks, cooperative banks, non-banking financial companies and other\nregulated entities."
+    },
+    {
+        "source": "02_rbi_regulatory_and_asset_quality.txt",
+        "chunk_id": 1,
+        "section": "1. ROLE OF THE RESERVE BANK OF INDIA",
+        "text": "The Reserve Bank of India, or RBI,\nis India’s central bank. It performs monetary, regulatory and\nsupervisory functions in the financial system. Its responsibilities\ninclude monetary policy, currency management, regulation and\nsupervision of specified financial institutions, payment-system\noversight and financial-stability work. Banking entities must follow\nthe laws, regulations, directions and circulars applicable to their\nentity type and activities."
+    },
+    {
+        "source": "02_rbi_regulatory_and_asset_quality.txt",
+        "chunk_id": 2,
+        "section": "2. PRUDENTIAL REGULATION",
+        "text": "Prudential rules are intended to promote the\nsafety and soundness of regulated financial institutions. They\naddress areas such as governance, capital, liquidity, credit\nexposure, asset classification, income recognition, provisioning,\ndisclosures and risk management. The exact requirements depend on\nthe regulated entity and the current applicable instrument. A\nrequirement for one class of institution should not automatically be\napplied to another."
+    },
+    {
+        "source": "02_rbi_regulatory_and_asset_quality.txt",
+        "chunk_id": 3,
+        "section": "3. INCOME RECOGNITION",
+        "text": "Income recognition rules govern when an\ninstitution may recognise income, including interest on advances.\nRecognition may depend on the status and classification of an\naccount and the applicable prudential framework. Accounting\nrecognition and cash actually received are not always the same\nthing. A reliable answer should identify the relevant rule and\naccount category rather than assuming that every accrued amount is\nautomatically recognised as income."
+    },
+    {
+        "source": "02_rbi_regulatory_and_asset_quality.txt",
+        "chunk_id": 4,
+        "section": "4. ASSET CLASSIFICATION",
+        "text": "Asset classification categorises advances\naccording to the applicable prudential criteria and the repayment or\ncredit status of the account. Categories and conditions are defined\nby the relevant regulatory directions. Classification can depend on\nthe nature of the facility, account conduct, restructuring status\nand other specified facts. The current entity-specific rule must be\nchecked before stating an exact overdue period or classification\nthreshold."
+    },
+    {
+        "source": "02_rbi_regulatory_and_asset_quality.txt",
+        "chunk_id": 5,
+        "section": "5. NON-PERFORMING ASSETS",
+        "text": "A non-performing asset, or NPA, is an advance\nclassified as non-performing under the applicable RBI prudential\nframework. Classification depends on the relevant directions, the\nnature of the facility and the facts of the account. A model must\nnot give a universal overdue-day threshold without checking the\napplicable current rule and any relevant exceptions. If a user asks\nwhether a particular loan is an NPA, the answer may require\naccount-level facts that are not available in a general document."
+    },
+    {
+        "source": "02_rbi_regulatory_and_asset_quality.txt",
+        "chunk_id": 6,
+        "section": "6. PROVISIONING",
+        "text": "Provisioning recognises that some loan exposures may\nnot be fully recovered. It affects reported profitability and the\ncarrying value of assets. Provisioning requirements can vary by\nasset category, security, borrower, restructuring status and the\napplicable regulatory framework. A provision is not necessarily the\nsame as a final write-off. A write-off is an accounting action and\ndoes not by itself mean that the borrower’s obligation has been\nlegally extinguished."
+    },
+    {
+        "source": "02_rbi_regulatory_and_asset_quality.txt",
+        "chunk_id": 7,
+        "section": "7. WHY ASSET-QUALITY METRICS NEED CONTEXT",
+        "text": "Gross NPA and net NPA\nmeasures are commonly used to describe aspects of a bank’s stressed\nadvances. Their definitions and calculation details should be taken\nfrom the relevant reporting framework. A ratio should always be\naccompanied by its reporting date, denominator and source.\nComparisons between institutions may be misleading if definitions,\nportfolios, reporting periods or accounting treatment differ. A\nsingle ratio does not explain the full credit-risk position."
+    },
+    {
+        "source": "02_rbi_regulatory_and_asset_quality.txt",
+        "chunk_id": 8,
+        "section": "8. REGULATORY VERSION CONTROL",
+        "text": "Regulatory information changes. Before\nrelying on a threshold, effective date, exemption or reporting\nrequirement:\n- Identify the regulated entity type, such as a commercial bank, small\nfinance bank, cooperative bank or NBFC.\n- Find the latest RBI direction or circular for that entity and topic.\n- Check the effective date, amendments and transitional provisions.\n- Identify the exact chapter, paragraph or section supporting the\nclaim.\n- Distinguish binding regulatory text from explanatory articles or\ncommentary.\n- If the source is unavailable or ambiguous, state the limitation\nrather than guessing."
+    },
+    {
+        "source": "02_rbi_regulatory_and_asset_quality.txt",
+        "chunk_id": 9,
+        "section": "9. EXAMPLE OF A SAFE ANSWER",
+        "text": "Question: What overdue period makes a loan\nan NPA? A safe answer is: The applicable classification criteria\ndepend on the type of regulated entity and facility and the current\nRBI directions. I would need to identify the institution and\nfacility type and verify the latest applicable direction before\ngiving an exact threshold. This avoids presenting a rule for one\ncategory as if it applied to all lenders."
+    },
+    {
+        "source": "02_rbi_regulatory_and_asset_quality.txt",
+        "chunk_id": 10,
+        "section": "10. OFFICIAL SOURCE REFERENCES RBI",
+        "text": "Master Directions portal:\nhttps://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx RBI\nFinancial Stability Report portal:\nhttps://www.rbi.org.in/scripts/FSReports.aspx RBI official website:\nhttps://www.rbi.org.in/\nAlways select the correct entity-specific direction and check\namendments. This educational summary is not legal, regulatory or\nfinancial advice and does not reproduce the full official text."
+    },
+    {
+        "source": "03_financial_risk_and_reliability.txt",
+        "chunk_id": 0,
+        "section": "FINANCIAL RISK MANAGEMENT — CONCEPTS FOR DOMAIN QUESTION ANSWERING",
+        "text": "Document type: Educational domain reference Scope: Banking and\nfinancial-system risk concepts Prepared: 11 November 2026\nPURPOSE AND SCOPE This document describes common financial risks and\nprinciples for evaluating AI answers in a banking context. It is\nintended as educational domain material and a starting point for model\ntesting. It does not provide investment recommendations, credit\ndecisions or institution-specific regulatory limits."
+    },
+    {
+        "source": "03_financial_risk_and_reliability.txt",
+        "chunk_id": 1,
+        "section": "1. CREDIT RISK",
+        "text": "Credit risk is the possibility that a borrower or\ncounterparty will fail to meet contractual obligations. Common\nassessment factors include repayment history, income and cash-flow\ncapacity, leverage, collateral, industry conditions and\nconcentration. Credit risk can arise from loans, bonds, derivatives,\nsettlement exposures and other counterparty relationships. A credit\ndecision should not be based on one indicator alone. A credit score\nmay be useful, but it does not replace affordability analysis,\nverification and applicable underwriting policy."
+    },
+    {
+        "source": "03_financial_risk_and_reliability.txt",
+        "chunk_id": 2,
+        "section": "2. LIQUIDITY RISK",
+        "text": "Liquidity risk is the risk that an institution cannot\nmeet cash-flow obligations when due without unacceptable losses. A\nbank may be solvent but still face liquidity pressure if it cannot\nobtain cash quickly enough to meet withdrawals or payments. Banks\nmanage liquidity through cash and liquid-asset buffers, funding\ndiversification, maturity monitoring, contingency funding plans and\nstress testing. Liquidity risk should be assessed across different\ntime horizons and under both normal and stressed conditions."
+    },
+    {
+        "source": "03_financial_risk_and_reliability.txt",
+        "chunk_id": 3,
+        "section": "3. MARKET RISK",
+        "text": "Market risk is the possibility of loss from movements in\nmarket prices or rates, including interest rates, foreign exchange\nrates, equity prices and commodity prices. Exposure depends on\npositions, sensitivities, hedges and market conditions. A change in\nmarket rates can affect the value of assets and liabilities\ndifferently. A risk report should state the relevant portfolio,\nvaluation date, assumptions and measurement method."
+    },
+    {
+        "source": "03_financial_risk_and_reliability.txt",
+        "chunk_id": 4,
+        "section": "4. OPERATIONAL RISK",
+        "text": "Operational risk arises from inadequate or failed\nprocesses, people, systems or external events. Examples include\nprocessing errors, cyber incidents, fraud, third-party failures,\ninternal misconduct and business disruption. Controls include\nsegregation of duties, access management, reconciliation, staff\ntraining, incident response, audit trails and business continuity\nplanning. Controls reduce exposure but cannot guarantee that\nincidents will never occur."
+    },
+    {
+        "source": "03_financial_risk_and_reliability.txt",
+        "chunk_id": 5,
+        "section": "5. CONCENTRATION RISK",
+        "text": "Concentration risk occurs when exposures are\nheavily concentrated in a borrower, connected group, sector,\ngeography, funding source or asset class. A concentrated portfolio\ncan be vulnerable to a common adverse event. Diversification and\nexposure limits can reduce, but do not eliminate, this risk.\nConcentration should be examined by relevant dimensions and with\nclear definitions of exposure."
+    },
+    {
+        "source": "03_financial_risk_and_reliability.txt",
+        "chunk_id": 6,
+        "section": "6. CAPITAL ADEQUACY",
+        "text": "Capital provides a loss-absorbing buffer. Capital\nadequacy frameworks compare eligible capital with risk-weighted\nexposures or other prescribed measures. Capital definitions,\ndeductions, buffers and minimum ratios are regulatory matters and\nmust be checked against the current rule applicable to the\ninstitution. A model should not quote an exact regulatory capital\nminimum without identifying the entity type, applicable framework\nand effective date."
+    },
+    {
+        "source": "03_financial_risk_and_reliability.txt",
+        "chunk_id": 7,
+        "section": "7. STRESS TESTING",
+        "text": "Stress testing evaluates how a portfolio or\ninstitution might perform under severe but plausible adverse\nscenarios. Scenarios may include recession, rising defaults, falling\nasset prices, interest-rate shocks, deposit outflows or\nforeign-exchange movements. Results depend on assumptions, data\nquality, model design and management actions. Stress-test results\nare not forecasts and should not be presented as predictions of what\nwill certainly happen. Sensitivity analysis can help show which\nassumptions have the largest effect."
+    },
+    {
+        "source": "03_financial_risk_and_reliability.txt",
+        "chunk_id": 8,
+        "section": "8. RISK GOVERNANCE",
+        "text": "Effective risk governance includes clear\naccountability, independent oversight, documented policies, reliable\ndata, escalation processes and regular review. Risk limits should\nhave owners and procedures for handling breaches. Senior management\nand boards need information that is timely, accurate and\nunderstandable. A model-generated risk summary should preserve\nuncertainty and should not replace accountable human review."
+    },
+    {
+        "source": "03_financial_risk_and_reliability.txt",
+        "chunk_id": 9,
+        "section": "9. MODEL RISK AND AI RELIABILITY",
+        "text": "Model risk is the possibility that\ndecisions or outcomes are adversely affected by errors in model\ndesign, assumptions, data, implementation or use. A financial-domain\nAI system can introduce additional risks if it invents facts,\nmisquotes a regulation, confuses products or presents uncertain\noutput as certain. Reliability work should test representative\nquestions, edge cases, ambiguous wording, outdated information and\nquestions that cannot be answered from the supplied documents."
+    },
+    {
+        "source": "03_financial_risk_and_reliability.txt",
+        "chunk_id": 10,
+        "section": "10. PRINCIPLES FOR RELIABLE FINANCIAL AI",
+        "text": "- Separate sourced facts from calculations, assumptions and opinions.\n- Cite the document, section and date supporting material claims.\n- Do not invent regulatory thresholds, rates, financial results or\ncitations.\n- State when information is missing, outdated or conflicting.\n- Ask for the institution type, product, jurisdiction and as-of date\nwhen these affect the answer.\n- For numerical calculations, show inputs, formula, units and\nrounding.\n- Avoid presenting general information as personalised investment,\nlending or legal advice.\n- Escalate high-impact or customer-specific decisions to qualified\nhuman review.\nFURTHER READING RBI Financial Stability Reports:\nhttps://www.rbi.org.in/scripts/FSReports.aspx RBI Master Directions:\nhttps://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx SEBI Investor\nEducation: https://investor.sebi.gov.in/\nThis material is educational and is not investment, lending, legal or\nregulatory advice."
+    }
+]
